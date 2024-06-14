@@ -1,0 +1,20 @@
+{
+  "name": "adventure-game-byhassanali",
+  "version": "1.0.0",
+  "description": "A thrilling command-line adventure game where you, the player, face off against formidable opponents like Skeletons, Assassins, and Zombies. Choose your actions wisely—attack, drink a health potion, or run for your life. Manage your fuel levels to survive and emerge victorious. Built with inquirer for interactive gameplay and chalk for vibrant console messages.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.22"
+  }
+}
