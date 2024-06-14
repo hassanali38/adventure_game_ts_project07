@@ -15,7 +15,7 @@ To install and run the game, follow these steps:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/adventure-game.git
+    git clone https://github.com/hassanali38/adventure_game_ts_project07.git
     cd adventure-game
     ```
 
@@ -26,8 +26,13 @@ To install and run the game, follow these steps:
 
 3. **Run the Game**
     ```bash
-    npm start
+    node index.js
     ```
+
+4. **Running with NPX**
+   ```bash
+   npx adventure-game-byhassanali
+   ```
 
 ## How to Play
 
@@ -59,3 +64,8 @@ Select the Action: Attack, Drink Portion, Run For Your Life: Attack
 John fuel is 75
 Skeleton fuel is 100
 ...
+```
+
+## Author
+
+Hassan Ali
